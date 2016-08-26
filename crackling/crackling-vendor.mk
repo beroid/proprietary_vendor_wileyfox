@@ -143,7 +143,6 @@ PRODUCT_COPY_FILES += \
     vendor/wileyfox/crackling/proprietary/vendor/lib64/libqmi.so:system/vendor/lib64/libqmi.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib64/libQSEEComAPI.so:system/vendor/lib64/libQSEEComAPI.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib64/libqti-perfd-client.so:system/vendor/lib64/libqti-perfd-client.so \
-    vendor/wileyfox/crackling/proprietary/vendor/lib64/libquipc_os_api.so:system/vendor/lib64/libquipc_os_api.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib64/libril-qc-qmi-1.so:system/vendor/lib64/libril-qc-qmi-1.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib64/libril-qc-radioconfig.so:system/vendor/lib64/libril-qc-radioconfig.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib64/libril-qcril-hook-oem.so:system/vendor/lib64/libril-qcril-hook-oem.so \
@@ -296,7 +295,6 @@ PRODUCT_COPY_FILES += \
     vendor/wileyfox/crackling/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
-    vendor/wileyfox/crackling/proprietary/vendor/lib/libquipc_os_api.so:system/vendor/lib/libquipc_os_api.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/wileyfox/crackling/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
